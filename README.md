@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<img align="right" width="300px" alt="Programmer illustration" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" width="300px" alt="Developer coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE2NHA4d2Z2czZzZzJsNTAzYzV4YnIwNzVtYXhrYTR6eDdmaWQ0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 
 Hi, I'm **Ariel Gutierrez**, a Junior Web Developer passionate about creating innovative web solutions. I focus on both front-end and back-end development, with experience working with various technologies. I'm also familiar with data analysis, machine learning, and database management.
 
@@ -16,7 +16,6 @@ I enjoy collaborating in teams and am always eager to learn new technologies and
 Outside tech, I enjoy reading novels 📖, painting and sketching 🖌️, listening to music 🎵, and exploring nature 🌴.
 
 📫 You can reach me at: [ariel2411033@hotmail.com](mailto:ariel2411033@hotmail.com)
-
 
 ## My Skills Include
 
@@ -81,16 +80,12 @@ Outside tech, I enjoy reading novels 📖, painting and sketching 🖌️, liste
   <a href="https://arielmaurico.github.io/Ariel-Gutierrez/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-   
 </div>
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin:5px 10px;">Github stats:</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=ArielMauricio&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ArielMauricio)
+[![](https://github-readme-stats.vercel.app/api?username=ArielMauricio&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ArielMauricio)  
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ArielMauricio&theme=tokyonight)](https://github.com/ArielMauricio)
 </div>
-
-----
-
 
